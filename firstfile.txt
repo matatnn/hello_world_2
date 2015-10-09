@@ -1,2 +1,4 @@
 some intitial content
 this is content written when branch-from-master is active
+second commit from branch of master . I can modify this during the commit process
+
