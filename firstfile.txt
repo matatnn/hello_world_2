@@ -1,4 +1,6 @@
 some intitial content
 this is content written when branch-from-master is active
 second commit from branch of master . I can modify this during the commit process
+this is a modification on branch-from-master after having it merged to master already
+
 
