@@ -1,4 +1,7 @@
-some intitial content
+//replaced the following line (resolve commit)
+some initial content
+//resolved the conflict by introducing this line here
+lets reactivate mr anoterh-branch-of-master and create some more conflicts!! (I also corrected the line before)
 this is content written when branch-from-master is active
 second commit from branch of master . I can modify this during the commit process
 this is a modification on branch-from-master after having it merged to master already
