@@ -2,6 +2,9 @@ some intitial content
 this is content written when branch-from-master is active
 second commit from branch of master . I can modify this during the commit process
 this is a modification on branch-from-master after having it merged to master already
+//I resolved the problem by keeping this line
 this is form master. lets create a conflict
-
+//and keeping the following line
+this is from branch-from-master and is written in the same line as the commit from master (it should create a conflict)
+//this is considered a new commit?
 
